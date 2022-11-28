@@ -8,7 +8,7 @@ $ cd plug.zsh-theme
 $ make path
 ```
 
-Go to your .zshrc file and change ZSH_THEME to this new one
+Go to your .zshrc file
 
 ```
 $ gedit ~/.zshrc
@@ -16,6 +16,9 @@ $ gedit ~/.zshrc
 or 
 ```
 $ cd ~/.zshrc 
+```
+and change ZSH_THEME to this new one
+```
 $ ZSH_THEME=plug
 ```
 
