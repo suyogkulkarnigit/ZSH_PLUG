@@ -19,6 +19,6 @@ $ cd ~/.zshrc
 ```
 and change ZSH_THEME to this new one
 ```
-$ ZSH_THEME=plug
+$ ZSH_THEME="plug"
 ```
 
