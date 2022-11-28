@@ -12,7 +12,8 @@ Go to your .zshrc file and change ZSH_THEME to this new one
 
 ```
 $ gedit ~/.zshrc
-``` or 
+``` 
+or 
 ```
 $ cd ~/.zshrc 
 $ ZSH_THEME=plug
