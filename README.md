@@ -15,7 +15,7 @@ $ gedit ~/.zshrc
 ``` 
 or 
 ```
-$ cd ~/.zshrc 
+$ code . ~/.zshrc 
 ```
 and change ZSH_THEME to this new one
 ```
