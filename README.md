@@ -11,7 +11,7 @@ $ make path
 Go to your .zshrc file
 
 ```
-$ gedit ~/.zshrc
+$ gedit ~/.zshrc ## for linux users
 ``` 
 or 
 ```
