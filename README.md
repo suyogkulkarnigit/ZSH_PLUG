@@ -1,6 +1,8 @@
 # plug.zsh-theme
 
-Clone this repository and add the theme in the path 
+Smol custom theme for oh-my-zsh ⚡️⚡️
+
+Clone this repository and add the theme to the path 
 
 ```
 $ git clone https://github.com/suyog-kulkarni-pst/ZSH_PLUG.git
