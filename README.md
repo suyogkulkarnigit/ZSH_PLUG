@@ -1,4 +1,3 @@
 # plug.zsh-theme
 
-Smol custom theme for oh-my-zsh ⚡️⚡️
-
+My custom theme for omz :accessibility:
