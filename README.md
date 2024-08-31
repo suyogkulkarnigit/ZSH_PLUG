@@ -1,8 +1,8 @@
 # smol ZSH theme
 
-My custom theme for omz :accessibility:
+Cracked theme for omz 
+
+Almost git depressed while writing this
 
 
-
-
-<img src="https://i.pinimg.com/564x/0d/77/e0/0d77e05702506b0faf783fb225b3ec76.jpg" alt="eheheheh" width="400" height="600">
+<img src="https://i.pinimg.com/736x/7e/4d/8f/7e4d8fdd1ead02e636e851592090639a.jpg" alt="eheheheh" width="400" height="300">
